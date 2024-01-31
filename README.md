@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altaf-azizi&label=Profile%20views&color=0e75b6&style=flat" alt="altaf-azizi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" height="600px" src="https://i.pinimg.com/originals/b6/16/c3/b616c3e847ac3149d90bfcb2ebb75bb6.gif">
+<img align="right" src="https://i.pinimg.com/originals/b6/16/c3/b616c3e847ac3149d90bfcb2ebb75bb6.gif">
 - 🔭 I’m currently working on **Python, and JavaScript**
 
 - 🌱 I’m currently learning **Java, C++, JavaScript algorithms and data structure**
