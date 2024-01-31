@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Altaf Hussain</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Altaf+Hussain!;" />
+</h1>
 <img src="https://cdn.wallpapersafari.com/94/21/Z3fgxb.gif">
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
