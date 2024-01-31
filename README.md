@@ -1,11 +1,11 @@
-
+<img height="400px" width="100%" src="https://cdn.wallpapersafari.com/94/21/Z3fgxb.gif">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Altaf+Hussain!;" />
 </h1>
-<img src="https://cdn.wallpapersafari.com/94/21/Z3fgxb.gif">
+
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://colab.research.google.com/drive/11upRr__AyoA2PSokOGRUy4xDDlWTnCs1">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altaf-azizi&label=Profile%20views&color=0e75b6&style=flat" alt="altaf-azizi" /> </p>
 
