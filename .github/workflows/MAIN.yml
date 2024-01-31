@@ -1,2 +1,20 @@
+name: Snake Eating Contributions
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run every day at midnight
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Run Snake Script
+      run: |
+        chmod +x your-script.sh
+        ./your-script.sh
 
 
