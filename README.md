@@ -1,5 +1,6 @@
-<img src="https://cdn.wallpapersafari.com/94/21/Z3fgxb.gif">
+
 <h1 align="center">Hi 👋, I'm Altaf Hussain</h1>
+<img src="https://cdn.wallpapersafari.com/94/21/Z3fgxb.gif">
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://colab.research.google.com/drive/11upRr__AyoA2PSokOGRUy4xDDlWTnCs1">
