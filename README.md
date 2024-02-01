@@ -15,9 +15,6 @@
 
 - 🌱 I’m currently learning **Java, C++, JavaScript algorithms and data structure**
 
-- 🤝 I’m looking for help with **HTML, CSS, and Python**
-
-- 📫 How to reach me **iltfhuss@gmail.com**
 
 <h2 align="center"> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2>
 <h3 align="left">Connect with me:</h3>
