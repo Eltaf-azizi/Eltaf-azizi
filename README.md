@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <!-- <img align="right" src="https://i.pinimg.com/originals/b6/16/c3/b616c3e847ac3149d90bfcb2ebb75bb6.gif"> -->
-- 🔭 I’m currently working on **Python, and JavaScript**
+- 🔭 I’m currently working on Python, and JavaScript
 
-- 🌱 I’m currently learning **Java, C++, JavaScript algorithms and data structure**
+- 🌱 I’m currently learning Java, C++, JavaScript algorithms and data structure
 
 
 <h2 align="center"> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2>
