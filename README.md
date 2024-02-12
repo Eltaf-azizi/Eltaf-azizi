@@ -16,7 +16,7 @@
 
 
 <h2 align="center"> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2>
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
