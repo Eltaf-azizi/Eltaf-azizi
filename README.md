@@ -20,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Eltaf-azizi&show_icons=true&locale=en" alt="Eltaf-azizi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eltaf-azizi&" alt="Eltaf-azizi" /></p>
-
